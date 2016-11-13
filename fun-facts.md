@@ -4,8 +4,12 @@ title: Fun Facts
 permalink: /fun-facts/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+* Full name: Lina Maria Cabal Romero.
+* Cabal (Dad's last name), Romero (Mom's last name).
+* It takes a lot for me to tan. I mostly burn. Many have been baffled by this latino mystery.
+* Studied a Graphic Design technical degree in Colombia before moving to US.
+* Cities I have lived in: Bogota, Washington D.C., Orlando, Boston, Linköping, Umeå.
+* I don't usually drink coffee, to the dismay of my colombian (and Swedish) family.
+* I have a cat that is more social than many dogs I have met and wiggles her tale when happy.
+* You could say I'm an introvert. Not a common thing among Colombians.
+* Roller Derby is a newly discovered interest <3
