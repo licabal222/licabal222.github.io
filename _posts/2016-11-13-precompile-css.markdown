@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thoughts about precompiling CSS!"
+title:  "Thoughts about precompile CSS"
 date:   2016-11-13 16:16:16
 categories: precompile css
 ---
@@ -10,11 +10,4 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
