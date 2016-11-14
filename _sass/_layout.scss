@@ -42,7 +42,18 @@
         &:not(:first-child) {
             margin-left: 20px;
         }
+
+        &:before{
+            color: $brand-color;
+            content: "\25B8";
+        }
+
+        &:hover{
+            text-decoration: none;
+            color: lighten($brand-color, 10%);
+        }
     }
+
 
     @include media-query($on-palm) {
         position: absolute;
@@ -86,6 +97,7 @@
             display: block;
             padding: 5px 10px;
         }
+
     }
 }
 

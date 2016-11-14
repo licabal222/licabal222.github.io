@@ -74,6 +74,17 @@ li {
     }
 }
 
+//custom list like the one in facts page
+.custom-list li {
+    list-style: none;
+}
+
+.custom-list li:before {
+    content: "\25B7";
+    padding-right: 15px;
+    color: $brand-color;
+}
+
 
 
 /**

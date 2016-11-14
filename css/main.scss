@@ -16,9 +16,9 @@ $display-font-size: $base-font-size * 2.621;
 
 $spacing-unit:     30px;
 
-$text-color:       #4e3f50;
 $background-color: #fdfdfd;
 $brand-color:      #8230fb;
+$text-color:       darken($brand-color, 35%);
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 20%);
