@@ -11,8 +11,8 @@ $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$site-title-font: 'Monoton', Arial, sans-serif;
-$site-title-size: 42px;
+$display-font-family: 'Monoton', Arial, sans-serif;
+$display-font-size: 42px;
 
 $spacing-unit:     30px;
 
@@ -21,12 +21,19 @@ $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
+$grey-color-light: lighten($grey-color, 20%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 $on-palm:          600px;
 $on-laptop:        800px;
 
+
+//Border-shadow that is compatible with older browsers
+@mixin box-shadow($horizontal, $vertical, $blur, $spread, $color) {
+    -webkit-box-shadow: $horizontal $vertical $blur $spread $color;
+    -moz-box-shadow: $horizontal $vertical $blur $spread $color;
+    box-shadow: $horizontal $vertical $blur $spread $color;
+}
 
 
 // Using media queries with like this:

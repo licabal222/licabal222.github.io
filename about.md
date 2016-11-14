@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
 
-Hi and welcome! This is a concise time-line of my journey so far.
+Take a sneak peek of what my life-journey has been so far.
  
 I was born and raised in Colombia’s capital city, Bogota. A massive, hectic and cosmopolitan place, filled with contrasts and mixed cultures.
 
