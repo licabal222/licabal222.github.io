@@ -3,11 +3,13 @@ layout: page
 title: about
 permalink: /about/
 ---
- 
+
+![panoramic-picture-bogota](../img/bogota.jpg){:class="img-responsive"}
 I was born and raised in Colombia’s capital city, Bogota. A massive, hectic and cosmopolitan place, filled with contrasts and mixed cultures.
 
-As a member of a big extended family, growing up there was loud, sometimes rocky but all and all, a lot of fun. Not conventional to Swedish standards in many aspects
- but a very nice time in any case.
+As a member of a big extended family, growing up there was loud, sometimes rocky but all and all, a lot of fun. 
+It didn't really follow conventional Swedish standards but it was a very nice time of my life indeed.
+![family-pciture](../img/family.jpg){:class="img-responsive"}
 
 Still I also had this constant desire to see the world beyond my Colombian bubble. How would life look like somewhere 
 else? ... And that was one of the reasons why after a few weeks of turning nineteen I moved to the US.
