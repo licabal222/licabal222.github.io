@@ -22,6 +22,7 @@ $text-color:       darken($brand-color, 35%);
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 20%);
+$grey-color-extralight: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 $on-palm:          600px;
@@ -35,6 +36,23 @@ $on-laptop:        800px;
     box-shadow: $horizontal $vertical $blur $spread $color;
 }
 
+//radial gradient in background that is compatible with older browsers
+@mixin radial-gradient($color1, $color2){
+    background: $background-color; /* For browsers that do not support gradients */
+    background: -webkit-radial-gradient($color1, $color2); /* Safari 5.1-6.0 */
+    background: -o-radial-gradient($color1, $color2); /* For Opera 11.6-12.0 */
+    background: -moz-radial-gradient($color1, $color2); /* For Firefox 3.6-15 */
+    background: radial-gradient($color1, $color2); /* Standard syntax */
+}
+
+//linear gradient in background that is compatible with older browsers
+@mixin linear-gradient($degree, $color1, $color2, $color3){
+    background: $background-color; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient($degree, $color1, $color2, $color3); /* Safari 5.1-6.0 */
+    background: -o-linear-gradient($degree, $color1, $color2, $color3); /* For Opera 11.6-12.0 */
+    background: -moz-linear-gradient($degree, $color1, $color2, $color3); /* For Firefox 3.6-15 */
+    background: linear-gradient($degree, $color1, $color2, $color3); /* Standard syntax */
+}
 
 // Using media queries with like this:
 // @include media-query($palm) {

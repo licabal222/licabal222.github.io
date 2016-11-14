@@ -19,11 +19,16 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
-    background-color: $background-color;
+
+    @include radial-gradient(white 80%, $grey-color-extralight);
     -webkit-text-size-adjust: 100%;
+
 }
 
-
+//div wrapper to separate from background gradient
+#bg-box {
+    background-color: $background-color;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm

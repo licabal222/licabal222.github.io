@@ -109,6 +109,7 @@
 .site-footer {
     @include box-shadow(0px, 0px, 20px, -5px, #717171);
     padding: $spacing-unit 0;
+    @include radial-gradient(white 55%, $grey-color-extralight);
 }
 
 .footer-heading {
