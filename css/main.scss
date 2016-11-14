@@ -12,13 +12,13 @@ $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $display-font-family: 'Monoton', Arial, sans-serif;
-$display-font-size: 42px;
+$display-font-size: $base-font-size * 2.621;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
+$text-color:       #4e3f50;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #8230fb;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 20%);

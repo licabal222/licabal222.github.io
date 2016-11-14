@@ -17,10 +17,12 @@
     letter-spacing: -1.5px;
     margin-bottom: 0;
     float: left;
+    text-transform: uppercase;
+    text-shadow: 1px 1px #ff8cf7;
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $brand-color;
     }
 }
 
@@ -164,6 +166,8 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    background-image: url("/img/bg-banner.gif") ;
+    background-repeat: repeat-x;
 }
 
 .page-heading {
@@ -199,11 +203,12 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: $display-font-size;
     letter-spacing: -1px;
     line-height: 1;
     text-transform: lowercase;
-    color: $grey-color-light;
+    color: white;
+    text-shadow: 2px 2px 4px #717171;
 
     @include media-query($on-laptop) {
         font-size: 36px;

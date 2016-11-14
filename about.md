@@ -3,9 +3,6 @@ layout: page
 title: about
 permalink: /about/
 ---
-
-
-Take a sneak peek of what my life-journey has been so far.
  
 I was born and raised in Colombia’s capital city, Bogota. A massive, hectic and cosmopolitan place, filled with contrasts and mixed cultures.
 
