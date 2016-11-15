@@ -1,0 +1,17 @@
+/* TEAM */
+	Author: Lina Cabal
+	Contact: contact [at] linacabal.com
+	Twitter: @licabal
+    Location: Umea, Sweden
+
+    Polygonal background designer: Freepik
+    Contact: http://www.freepik.com/free-vector/blue-polygonal-background_758582.htm
+    Twitter: @Freepik_Vectors
+    Location: Global
+
+
+/* SITE */
+    Last update: 2016/11/15
+    Standards: HTML5, CSS3,..
+    Components: Disqus, jekyll, sass
+    Software: WebStorm, Photoshop

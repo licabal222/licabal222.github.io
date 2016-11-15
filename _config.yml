@@ -1,6 +1,6 @@
 # Site settings
 title: Lina Cabal
-email: contact@linacabal.com
+email: contact [at] linacabal.com
 description: > # this means to ignore newlines until "baseurl:"
   Lina's portfolio while stuying the UDM program at Linneaus University in Sweden.
 baseurl: "" # the subpath of your site, e.g. /blog/
