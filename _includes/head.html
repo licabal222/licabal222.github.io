@@ -6,6 +6,11 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
 
+    <meta property="og:title" content="Lina Cabal - UDM Portfolio at Linnaeus University" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.baseurl }}" />
+    <meta property="og:image" content="{{ "/img/img-og.png" | prepend: site.baseurl }}" />
+
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link type="text/plain" rel="author" href="{{ "/humans.txt" | prepend: site.baseurl }}" />
