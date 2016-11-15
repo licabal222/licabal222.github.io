@@ -177,6 +177,7 @@
 /**
  * Page content
  */
+
 .page-content {
     padding: $spacing-unit 0;
     background-image: url("/img/bg-banner.gif") ;
@@ -204,6 +205,17 @@
 .post-link {
     display: block;
     font-size: 24px;
+
+    &:before {
+        color: $brand-color;
+        content: "\25B9";
+        padding-right: 5px;
+    }
+
+    &:hover {
+        text-decoration: none;
+        background-color: #f7ff00;
+    }
 }
 
 
