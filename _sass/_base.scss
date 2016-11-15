@@ -50,7 +50,13 @@ img {
     vertical-align: middle;
 }
 
-
+.img-right{
+    float: right;
+    max-width: 160px;
+    margin: 6px;
+    border: 4px solid white;
+    @include box-shadow(1px, 0px, 16px, -5px, $grey-color-dark);
+}
 
 /**
  * Figures
