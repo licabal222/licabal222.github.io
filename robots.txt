@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /jekyll/
+Disallow: /img/
+Disallow: /precompile/
+Disallow: /about/
+Disallow: /fun-facts/
