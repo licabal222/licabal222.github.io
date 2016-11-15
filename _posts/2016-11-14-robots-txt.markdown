@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "About robots.txt"
 date:   2016-11-14 20:30:16
 categories: robots txt

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Thoughts about precompile CSS"
 date:   2016-11-13 16:16:16
 categories: precompile css
