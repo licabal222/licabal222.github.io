@@ -9,7 +9,7 @@ categories: humans txt
 `humans.txt` is a txt file that you add in the top-level directory of your web server and that contains information about all the people
 involved in the construction of the website.
 
-The following is a suggestion given by [humanstxt]:  http://humanstxt.org/Standard.html of the content that can go in the humans.txt file:
+The following is a suggestion given by [humanstxt.org][humansweb]{:target="_blank"} of the content that can go in the humans.txt file:
 
 {% highlight ruby %}
 
@@ -29,9 +29,10 @@ Last update: YYYY/MM/DD
 Standards: HTML5, CSS3,..
 Components: Modernizr, jQuery, etc.
 Software: Software used for the development
+
 {% endhighlight %}
 
-The [humanstxt]: http://www.humanstxt.org website also recomends adding an author tag on the head of the site.
+The [humanstxt.org][humansweb]{:target="_blank"} website also recomends adding an author tag on the head of the site.
 
 {% highlight ruby %}
 
@@ -43,5 +44,5 @@ The [humanstxt]: http://www.humanstxt.org website also recomends adding an autho
 For this assignment I created an empty txt file in WebStorm and copied the basic structure given by humanstxt.org.
 Later on I added all the real information necessary, modified a couple things and that was it. Very fast and simple.
 
-
+[humansweb]: http://www.humanstxt.org
 
