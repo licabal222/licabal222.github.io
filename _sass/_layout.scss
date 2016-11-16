@@ -218,6 +218,21 @@
     }
 }
 
+.backpage-link {
+    color: $text-color;
+    line-height: $base-line-height;
+
+    &:before{
+        color: $brand-color;
+        content: "\25C1";
+        padding-right: 4px;
+    }
+
+    &:hover {
+        text-decoration: none;
+        background-color: #f7ff00;
+    }
+}
 
 
 /**

@@ -12,8 +12,8 @@ did throw me off the wagon... hard! What would have taken me 30 minutes with the
 three times as much. `It was not love at first sight`.
 
 But in the digital world you either evolve or you get left behind, so I know it is important to have an open mind and to don't give up.
-Eventually I got a better hang of all of it and things started to work faster, smoother and even better than with a more traditional approach.
+Eventually I got a better hang of it and things started to work faster and smoother.
 
 I can absolutely see the reason why people use these techniques and how much more easier would be to keep websites updated.
-For me, I guess the problem was more stubbornness and accepting the different paths to thing I though I already knew.
+For me, I guess the problem was more stubbornness and accepting the different paths to things I though I already knew.
 Which is not bad at all, is all about getting more tools in the toolbox.
