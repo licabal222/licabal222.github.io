@@ -9,7 +9,7 @@
     Twitter: @Leitet
     Location: Kalmar, Sweden
 
-    Basic Framework developer: John Häggerud
+    Basic Framework developer: John Haggerud
     Contact: john.haggerud  [at] lnu.se
     Twitter: @thajo_john
     Location: Kalmar, Sweden
@@ -20,7 +20,7 @@
     Location: Global
 
 /* SITE */
-    Last update: 2016/11/15
+    Last update: 2016/11/16
     Standards: HTML5, CSS3,..
     Components: Disqus, jekyll, sass
     Software: WebStorm, Photoshop
