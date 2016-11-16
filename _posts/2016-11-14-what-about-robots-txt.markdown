@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "About robots.txt"
+title:  "What about robots.txt"
 date:   2016-11-14 20:30:16
 categories: robots txt
 ---

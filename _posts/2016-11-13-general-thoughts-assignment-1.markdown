@@ -15,5 +15,5 @@ But in the digital world you either evolve or you get left behind, so I know it 
 Eventually I got a better hang of it and things started to work faster and smoother.
 
 I can absolutely see the reason why people use these techniques and how much more easier would be to keep websites updated.
-For me, I guess the problem was more stubbornness and accepting the different paths to things I though I already knew.
+For me, I guess the problem was more stubbornness and accepting the different paths to things I thought I already knew.
 Which is not bad at all, is all about getting more tools in the toolbox.
