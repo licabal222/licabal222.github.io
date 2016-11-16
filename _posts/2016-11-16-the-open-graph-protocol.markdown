@@ -6,7 +6,7 @@ date:   2016-11-16 15:35:15
 categories: open graph
 ---
 
-`Open Graph` is a technology that helps websites to turn into rich graph objects. It is mostly used for the correct integration with
+`Open Graph` is a technology that helps websites turn into rich graph objects so that they integrate correctly with
  social media sites like Facebook, Twitter, LinkedIn. Open Graph tells the social media site which information to show when sharing
  the webpage/site, consequently avoiding the display of advertising or irrelevant information.
 
